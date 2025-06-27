@@ -11,6 +11,6 @@ Tools & Skills Demonstrated
 - Region- and Product-Level Segmentation
 - Profitability Optimization Recommendations
 
-For a quick project recap, view the [Powerpoint Presentation][https://github.com/babin8/Tableau-for-Sales-Channel-Optimization/blob/main/Presentation.pdf]
+For a quick project recap, view the [Powerpoint Presentation](https://github.com/babin8/Tableau-for-Sales-Channel-Optimization/blob/main/Presentation.pdf)
 
-For the complete details, read the [Full Project Report][https://github.com/babin8/Tableau-for-Sales-Channel-Optimization/blob/main/Project%20Report.pdf]
+For the complete details, read the [Full Project Report](https://github.com/babin8/Tableau-for-Sales-Channel-Optimization/blob/main/Project%20Report.pdf)
