@@ -3,6 +3,8 @@ Adidas Footwear Sales Channel Optimization by visualizing and analyzing data usi
 
 This project is a comprehensive analysis of Adidas's 2021 U.S. retail sales performance, using Tableau dashboards and Excel preprocessing to extract business insights from over 9,600 transactions. The goal was to answer key business questions around sales trends, pricing, regional profitability, and channel performance.
 
+[Data Source](https://www.kaggle.com/datasets/ahmedabbas757/dataset)
+
 Tools & Skills Demonstrated
 
 - Data Cleaning & validation (Excel)
